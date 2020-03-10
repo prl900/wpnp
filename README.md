@@ -1,2 +1,2 @@
 # wpnp
-Weather Prediction By Numerical Python
+Weather Prediction by Numerical Python
